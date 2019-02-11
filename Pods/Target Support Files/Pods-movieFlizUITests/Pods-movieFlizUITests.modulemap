@@ -1,0 +1,6 @@
+framework module Pods_movieFlizUITests {
+  umbrella header "Pods-movieFlizUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
